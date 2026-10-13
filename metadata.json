@@ -1,0 +1,6 @@
+{
+  "name": "Codebound: C Programming Adventure",
+  "description": "An immersive story-driven C programming adventure game. Master C fundamentals, unlock ancient terminals, wake guardians, and breach the Silent Gate through real code execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
